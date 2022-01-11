@@ -1,2 +1,2 @@
 # Welcome
-Introduction to the Aerovek Community
+Introduction to the Aerovek Community.
